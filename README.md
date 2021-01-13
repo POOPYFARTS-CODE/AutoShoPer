@@ -14,3 +14,12 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 This Bot Is Easy To Handle And Manage It Can Have Some Errors And Bugs So Pull requests are welcome....
+
+
+
+
+WEBSITES IT WILL SUPPORT ARE....
+
+1)Nike
+2)Adidas
+3)Supreme
